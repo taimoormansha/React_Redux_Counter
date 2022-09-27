@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Output 
+![image](https://user-images.githubusercontent.com/93200194/192508309-717cfcf6-b556-4905-9b4e-891e4bc8e208.png)
+
+# Concept Building
+## React-Redux vs Class
+![image](https://user-images.githubusercontent.com/93200194/192508573-ab37a5b0-8d40-4153-8bcc-993399852834.png)
+
+## Calling Reducer Function From Store
+![image](https://user-images.githubusercontent.com/93200194/192508675-4ee32c57-44b1-4242-8ccc-7d4e796952bf.png)
+
+## Get State(variable value)
+![image](https://user-images.githubusercontent.com/93200194/192508906-a55c504f-00b2-49bc-938f-062a14ef20b2.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
