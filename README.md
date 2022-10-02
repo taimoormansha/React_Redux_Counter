@@ -1,3 +1,5 @@
+#Live Deploy on Heroku
+https://react-redux-mycounter.herokuapp.com/
 # Output 
 ![image](https://user-images.githubusercontent.com/93200194/192508309-717cfcf6-b556-4905-9b4e-891e4bc8e208.png)
 
